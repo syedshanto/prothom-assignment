@@ -1,12 +1,25 @@
-.text-primary {
-
-}
-
 .header {
     background: rgba(229, 84, 115, 0.10);
 }
 .banner{
+    padding: 30px 30px 30px 150px;
+    display: inline-block;
     
 }
+.banner .banner-pic{
+    width: 635px;
+    height: 800px;
+    display: inline-flex;
+}
+.section{
+    text-align: center;
 
+}
+.flower-pic1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.icon{
+    max-width: 1440px;
+}
 
