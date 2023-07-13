@@ -22,4 +22,15 @@
 .icon{
     max-width: 1440px;
 }
-
+.info{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 128px ;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+}
+.information-pic{
+    display: flex;
+}
