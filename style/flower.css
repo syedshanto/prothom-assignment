@@ -34,3 +34,11 @@
 .information-pic{
     display: flex;
 }
+.deal{
+    margin-top:128px ;
+}
+.deals input, textarea{
+    display: block;
+    margin-bottom: 24px;
+
+}
